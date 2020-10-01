@@ -1,0 +1,155 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mediakitdemo.com" resolutions="1x" timestamp="1601528547015">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_home-master.css" crc="3894939966" ref="66:28:37:67:69:41:74:index:27:39"/>
+    <file name="nomq_preview_master_home-master.css" crc="452093231" ref="66:28:37:67:69:41:74:index:27:39"/>
+    <file name="66.css" crc="4193103776" ref="66"/>
+    <file name="nomq_66.css" crc="202402166" ref="66"/>
+    <file name="28.css" crc="164423404" ref="28"/>
+    <file name="nomq_28.css" crc="4058352748" ref="28"/>
+    <file name="37.css" crc="4125760474" ref="37"/>
+    <file name="nomq_37.css" crc="3992713445" ref="37"/>
+    <file name="67.css" crc="4155064818" ref="67"/>
+    <file name="nomq_67.css" crc="320865764" ref="67"/>
+    <file name="69.css" crc="16442463" ref="69"/>
+    <file name="nomq_69.css" crc="4046671209" ref="69"/>
+    <file name="41.css" crc="3859967903" ref="41"/>
+    <file name="nomq_41.css" crc="200951076" ref="41"/>
+    <file name="74.css" crc="4261773704" ref="74"/>
+    <file name="nomq_74.css" crc="4275537102" ref="74"/>
+    <file name="index.css" crc="3959439843" ref="index"/>
+    <file name="nomq_index.css" crc="106961498" ref="index"/>
+    <file name="27.css" crc="4174672871" ref="27"/>
+    <file name="nomq_27.css" crc="3924532119" ref="27"/>
+    <file name="39.css" crc="150753751" ref="39"/>
+    <file name="nomq_39.css" crc="3950671172" ref="39"/>
+  </folder>
+  <folder name="fonts">
+    <file name="avenirnextltpro-boldcn.woff" crc="4106440867"/>
+    <file name="avenirnextltpro-boldcn.eot" crc="3813739826"/>
+    <file name="montserrat-light.woff" crc="241814887"/>
+    <file name="montserrat-light.eot" crc="133480952"/>
+    <file name="montserrat-bold.woff" crc="3962390889"/>
+    <file name="montserrat-bold.eot" crc="4292412071"/>
+    <file name="montserrat-medium.woff" crc="4190792266"/>
+    <file name="montserrat-medium.eot" crc="4198223768"/>
+  </folder>
+  <folder name="assets">
+    <file name="27_kem-dưỡng-da-mặt-cathy-doll-snail-gold-snail-firming-cream-for-wrinkle-skin-50g.png" crc="474130549" seo="true" mt="1599646442000"/>
+    <file name="28_kem-dưỡng-trắng-da-tức-thì-cathy-doll-ready-2-white-white-boosting-cream-75ml.png" crc="314475961" seo="true" mt="1599646430000"/>
+    <file name="facial-copy.png" crc="4115292898" seo="true" mt="1600668166000"/>
+    <file name="37_nước-hoa-hồng-kết-hợp-tinh-chất-dưỡng-da-cathy-doll-fresh-aloe-vera-toner---essence-300ml.png" crc="4127718658" seo="true" mt="1599646442000"/>
+    <file name="39_nước-tẩy-trang-pha-dầu-cathy-doll-hyaluron-cleasing-oil-in-water-500ml-.png" crc="4092323979" seo="true" mt="1599646409000"/>
+    <file name="41_nước-tẩy-trang-sáng-da-cathy-doll-bright-up-cleansing-water-500ml.png" crc="20023038" seo="true" mt="1599646409000"/>
+    <file name="66_sữa-rửa-mặt-tạo-bọt-dưỡng-ẩm-da-cathy-doll-hya-cushion-facial-foam-cleanser-120ml.png" crc="4067133260" seo="true" mt="1599646408000"/>
+    <file name="67_sữa-rửa-mặt-tạo-bọt-ngăn-ngừa-mụn-cathy-doll-anti-acne-cushion-facial-foam-cleanser-120ml.png" crc="4200507433" seo="true" mt="1599646408000"/>
+    <file name="69_sữa-rửa-mặt-tạo-bọt-trắng-da-cathy-doll-white-cushion-facial-foam-cleanser-120ml.png" crc="4010246992" seo="true" mt="1599646408000"/>
+    <file name="74_tinh-chất-dưỡng-trắng-da-cathy-doll-power-on-l-glutathione-ampoule-5ml.png" crc="3764190759" seo="true" mt="1599646408000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>facial:tablet>index:tablet>facial:index:37:39:27:28:66:41:67:69:74"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>facial:tablet>index:tablet>facial:index:37:39:27:28:66:41:67:69:74"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>facial:tablet>index:tablet>facial:index:37:39:27:28:66:41:67:69:74"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>facial:tablet>index:tablet>facial:index:37:39:27:28:66:41:67:69:74"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:tablet>index:index:37:39:27:28:66:41:67:69:74"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>facial:tablet>index:tablet>facial:index:37:39:27:28:66:41:67:69:74"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="phone>index:phone>facial:index:37:39:27:28:66:41:67:69:74"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>facial:tablet>index:tablet>facial:index:37:39:27:28:66:41:67:69:74"/>
+  </folder>
+  <folder name="images">
+    <file name="image convert 2_phấn phủ kiềm dầu- copy 4.svg" crc="4124917357" ref="phone>index:tablet>index:index"/>
+    <file name="image convert 2_phấn phủ kiềm dầu- copy 4_poster_u112.png" crc="3846235746" ref="phone>index:tablet>index:index"/>
+    <file name="menu-08.svg" crc="143167038" ref="phone>index:tablet>index:index"/>
+    <file name="menu-08_poster_u309.png" crc="4055449128" ref="phone>index:tablet>index:index"/>
+    <file name="qooqeescalehover.jpg" crc="217134457" ref="37:39:27:28:66:41:67:69:74">
+      <caption webpage="66" alt=""/>
+      <caption webpage="66" alt=""/>
+      <caption webpage="67" alt=""/>
+      <caption webpage="67" alt=""/>
+      <caption webpage="37" alt=""/>
+      <caption webpage="37" alt=""/>
+      <caption webpage="39" alt=""/>
+      <caption webpage="39" alt=""/>
+      <caption webpage="41" alt=""/>
+      <caption webpage="41" alt=""/>
+      <caption webpage="74" alt=""/>
+      <caption webpage="74" alt=""/>
+      <caption webpage="27" alt=""/>
+      <caption webpage="27" alt=""/>
+      <caption webpage="28" alt=""/>
+      <caption webpage="28" alt=""/>
+      <caption webpage="69" alt=""/>
+      <caption webpage="69" alt=""/>
+    </file>
+    <file name="27_kem dưỡng da mặt cathy doll snail gold snail firming cream for wrinkle skin 50g.jpg" crc="29165115" ref="37:39:27:28:66:41:67:69:74"/>
+    <file name="37_nước hoa hồng kết hợp tinh chất dưỡng da cathy doll fresh aloe vera toner - essence 300ml.jpg" crc="181170485" ref="37">
+      <caption webpage="37" alt=""/>
+      <caption webpage="37" alt=""/>
+    </file>
+    <file name="39_nước tẩy trang pha dầu cathy doll hyaluron cleasing oil in water 500ml .jpg" crc="492566431" ref="39">
+      <caption webpage="39" alt=""/>
+      <caption webpage="39" alt=""/>
+    </file>
+    <file name="27_kem dưỡng da mặt cathy doll snail gold snail firming cream for wrinkle skin 50g2.jpg" crc="4060760900" ref="27">
+      <caption webpage="27" alt=""/>
+      <caption webpage="27" alt=""/>
+    </file>
+    <file name="28_kem dưỡng trắng da tức thì cathy doll ready 2 white white boosting cream 75ml.jpg" crc="121987770" ref="28">
+      <caption webpage="28" alt=""/>
+      <caption webpage="28" alt=""/>
+    </file>
+    <file name="66_sữa rửa mặt tạo bọt dưỡng ẩm da cathy doll hya cushion facial foam cleanser 120ml.jpg" crc="133503420" ref="66">
+      <caption webpage="66" alt=""/>
+      <caption webpage="66" alt=""/>
+    </file>
+    <file name="41_nước tẩy trang sáng da cathy doll bright up cleansing water 500ml.jpg" crc="3770226698" ref="41">
+      <caption webpage="41" alt=""/>
+      <caption webpage="41" alt=""/>
+    </file>
+    <file name="67_sữa rửa mặt tạo bọt ngăn ngừa mụn cathy doll anti-acne cushion facial foam cleanser 120ml.jpg" crc="4097411483" ref="67">
+      <caption webpage="67" alt=""/>
+      <caption webpage="67" alt=""/>
+    </file>
+    <file name="69_sữa rửa mặt tạo bọt trắng da cathy doll white cushion facial foam cleanser 120ml.jpg" crc="237941985" ref="69">
+      <caption webpage="69" alt=""/>
+      <caption webpage="69" alt=""/>
+    </file>
+    <file name="74_tinh chất dưỡng trắng da cathy doll power on l-glutathione ampoule 5ml.jpg" crc="4094049000" ref="74">
+      <caption webpage="74" alt=""/>
+      <caption webpage="74" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_home-master.css" crc="509797807" ref="tablet>index:tablet>facial"/>
+      <file name="nomq_preview_master_home-master.css" crc="3824530138" ref="tablet>index:tablet>facial"/>
+      <file name="index.css" crc="365336436" ref="tablet>index"/>
+      <file name="facial.css" crc="3944443736" ref="tablet>facial"/>
+      <file name="nomq_facial.css" crc="3824530138" ref="tablet>facial"/>
+    </folder>
+    <file name="index.html" crc="524949843" seo="true" mt="1601526581473" redirect="true"/>
+    <file name="facial.html" crc="4265771271" seo="true" mt="1601526581469" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_home-master.css" crc="4131234955" ref="phone>index:phone>facial"/>
+      <file name="nomq_preview_master_home-master.css" crc="4109857334" ref="phone>index:phone>facial"/>
+      <file name="index.css" crc="4272054054" ref="phone>index"/>
+      <file name="nomq_index.css" crc="401936755" ref="phone>index"/>
+      <file name="facial.css" crc="37701012" ref="phone>facial"/>
+      <file name="nomq_facial.css" crc="3867436832" ref="phone>facial"/>
+    </folder>
+    <file name="index.html" crc="417389158" seo="true" mt="1601526581474" redirect="true"/>
+    <file name="facial.html" crc="230379259" seo="true" mt="1601526581472" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4238989012" seo="true" mt="1601527791971" redirect="true"/>
+  <file name="37.html" crc="16353121" seo="true" mt="1601527479861" redirect="true"/>
+  <file name="39.html" crc="4080447945" seo="true" mt="1601527490954" redirect="true"/>
+  <file name="27.html" crc="419063727" seo="true" mt="1601527453682" redirect="true"/>
+  <file name="28.html" crc="304602088" seo="true" mt="1601527469603" redirect="true"/>
+  <file name="66.html" crc="3805530485" seo="true" mt="1601527513109" redirect="true"/>
+  <file name="41.html" crc="49503405" seo="true" mt="1601527501860" redirect="true"/>
+  <file name="67.html" crc="3841335228" seo="true" mt="1601527523277" redirect="true"/>
+  <file name="69.html" crc="4220661058" seo="true" mt="1601527532155" redirect="true"/>
+  <file name="74.html" crc="508973842" seo="true" mt="1601527539995" redirect="true"/>
+</manifest>
